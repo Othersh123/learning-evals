@@ -8,9 +8,7 @@ An interactive learning platform for understanding LLM evaluations.
 
 ## What this is
 
-A three-module learning tool that teaches LLM evals through theory, inspection, and hands-on experimentation — using a customer support agent as the subject.
-
-Built as a portfolio project to demonstrate AI PM competency: designing eval criteria, surfacing tradeoffs, and making the abstract concrete for a non-technical audience.
+A three-module learning tool that teaches LLM evals through theory, inspection, and hands-on experimentation using a customer support agent as the subject.
 
 ---
 
