@@ -1,6 +1,6 @@
 # LLM Eval Playground
 
-An interactive learning platform for understanding LLM evaluations, built as a Claude artifact.
+An interactive learning platform for understanding LLM evaluations.
 
 **Live demo:** <a href="https://claude.ai/public/artifacts/bbccbb6f-6dac-4e2a-abce-7690941cb5d0" target="_blank" rel="noopener noreferrer">Open demo ↗</a>
 
@@ -123,7 +123,7 @@ The delta between them — especially on escalation judgment for the dispute thr
 
 ## About
 
-Built by [Othersh](https://github.com/othersh) as an AI PM portfolio project.
+Built by [Othersh](https://github.com/othersh).
 
 The goal: demonstrate that AI PM work is about designing evaluation criteria, making tradeoffs visible, and building systems that help teams make better decisions — not just shipping features.
 
