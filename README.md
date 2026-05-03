@@ -2,7 +2,7 @@
 
 An interactive learning platform for understanding LLM evaluations, built as a Claude artifact.
 
-**Live demo:** *[Demo](https://claude.ai/public/artifacts/8354db5b-7ff9-4303-a6eb-29889de343b1)*
+**Live demo:** <a href="https://claude.ai/public/artifacts/bbccbb6f-6dac-4e2a-abce-7690941cb5d0" target="_blank" rel="noopener noreferrer">Open demo ↗</a>
 
 ---
 
